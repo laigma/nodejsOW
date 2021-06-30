@@ -1,0 +1,23 @@
+{
+  "name": "nodejsow",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laigma/nodejsOW.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "laigma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laigma/nodejsOW/issues"
+  },
+  "homepage": "https://github.com/laigma/nodejsOW#readme"
+}
